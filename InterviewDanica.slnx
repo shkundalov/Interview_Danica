@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InterviewDanica.Api.Tests/InterviewDanica.Api.Tests.csproj" />
+  <Project Path="InterviewDanica.Api/InterviewDanica.Api.csproj" />
+</Solution>

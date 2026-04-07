@@ -1,0 +1,1 @@
+taskkill /F /IM dotnet.exe 2>&1 | findstr "SUCCESS"
